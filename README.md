@@ -15,5 +15,5 @@ Analysis of RSVPs from meetup.com using Kafka.
 We can access the data stream through meetup.com
 
 ### License
-This project uses the following license: [MIT License]()
+This project uses the following license: [MIT License](https://github.com/devanshsharma-bigdata/P3-Kafka-Streaming/blob/main/LICENSE)
 
