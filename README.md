@@ -11,6 +11,10 @@ Analysis of RSVPs from meetup.com using Kafka.
 * AWS S3
 * YARN
 
+### Features
+* User can find out the current active cities in India which are scheduling Meetup Events.
+* User can find out the trending topics in US Meetup Events.
+* User can find out how many Big Data Meetup Events events are scheduled in Mumbai.
 ### Contributors
 * Sailash R
 * Manaswini Agrawal
