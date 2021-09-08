@@ -60,7 +60,7 @@ Spark depends on a external package for kafka integeration
 * Jayashree C S
 
 ### Dataset Used
-We can access the data stream through meetup.com
+We can access the data stream through [meetup.com](https://stream.meetup.com/2/rsvps)
 
 ### License
 This project uses the following license: [MIT License](https://github.com/devanshsharma-bigdata/P3-Kafka-Streaming/blob/main/LICENSE)
