@@ -12,9 +12,9 @@ Analysis of RSVPs from meetup.com using Kafka.
 * YARN
 
 ### Features
-* User can find out the current active cities in India which are scheduling Meetup Events.
+* User can find out the current active cities in US which are scheduling Meetup Events.
 * User can find out the trending topics in US Meetup Events.
-* User can find out how many Big Data Meetup Events events are scheduled in Mumbai.
+* User can find out how many Big Data Meetup Events events are scheduled around the world.
 
 #### TODOs for future development
 This project can be extended to get the real time trending topics across the world or for a specific geography along with other business insights. By giving real time trends in topics like in twitter, users of meetup will be aware of the more popular and less popular topics in near real time. With minor modifications, this project can also be extended to process and analyze IoT data.
