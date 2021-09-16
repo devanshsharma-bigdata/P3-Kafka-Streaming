@@ -28,7 +28,7 @@ Run Zookeeper to maintain Kafka, command to be run from Kafka root dir
   bin/zookeeper-server-start.sh config/zookeeper.properties
 Start Kafka server, aditional servers can be added as per requirement.
 
-  bin/kafka-server-start.sh config/server.properties
+bin/kafka-server-start.sh config/server.properties
 Start Producer.py to start reading data from the meetup stream and store it in '''meetup''' kafka topic.
 
 Start Consumer.py to consume the stream from the '''meetup''' topic
